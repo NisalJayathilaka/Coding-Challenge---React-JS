@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Coding-Challenge---React-JS/static/css/main.663407ad.css",
-    "main.js": "/Coding-Challenge---React-JS/static/js/main.d9128a70.js",
+    "main.js": "/Coding-Challenge---React-JS/static/js/main.90521e71.js",
     "index.html": "/Coding-Challenge---React-JS/index.html",
     "main.663407ad.css.map": "/Coding-Challenge---React-JS/static/css/main.663407ad.css.map",
-    "main.d9128a70.js.map": "/Coding-Challenge---React-JS/static/js/main.d9128a70.js.map"
+    "main.90521e71.js.map": "/Coding-Challenge---React-JS/static/js/main.90521e71.js.map"
   },
   "entrypoints": [
     "static/css/main.663407ad.css",
-    "static/js/main.d9128a70.js"
+    "static/js/main.90521e71.js"
   ]
 }
