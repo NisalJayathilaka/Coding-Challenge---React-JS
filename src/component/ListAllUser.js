@@ -91,7 +91,7 @@ function ListAllUser() {
               alt="profile pictures"
               src={user.picture.large}
               onClick={() => {
-                navigate("/userDetails", { state: user });
+                navigate("/Coding-Challenge---React-JS/userDetails", { state: user });
               }}
             ></img>
           ))}
