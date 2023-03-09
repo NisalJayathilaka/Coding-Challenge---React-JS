@@ -10,8 +10,8 @@ function App() {
    <Fragment>
      <Router>
         <Routes>
-          <Route path="/" element={<ListAllUser />} />
-          <Route path="/userDetails" element={<UserDetails />} />
+          <Route path="/Coding-Challenge---React-JS" element={<ListAllUser />} />
+          <Route path="/Coding-Challenge---React-JS/userDetails" element={<UserDetails />} />
         </Routes>
       </Router>
    </Fragment>
