@@ -13,7 +13,7 @@ function UserDetails() {
           className="btn btn-outline-primary rounded-pill"
           style={{ paddingLeft: "20px", paddingRight: "20px", margin: "5px" }}
           onClick={() => {
-            navigate("/Coding-Challenge---React-JS", { replace: true });
+            navigate(-1, { replace: true });
           }}
         >
           Go Back
